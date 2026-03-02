@@ -1,5 +1,6 @@
 # Hi there, I'm Tharun PV 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://tharunpv.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-pv29/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun-PV/)
 
@@ -15,11 +16,12 @@ An engineer specializing in automation, AI, cloud solutions, and backend develop
 ## 🛠️ Skills & Technologies
 
 ```
-Languages     : Python, JavaScript, Java, C++, SQL
-Web Dev       : HTML, CSS, React, Node.js, Express
-Databases     : MongoDB, MySQL, PostgreSQL
-DevOps & Cloud: Docker, Kubernetes, AWS
-Tools         : Git, GitHub Actions, VS Code
+Languages          : Python, JavaScript, SQL
+Web Dev            : HTML, CSS, React, Node.js, Express
+Databases          : MongoDB, MySQL, PostgreSQL
+DevOps & Cloud     : Docker, Kubernetes, AWS
+Tools              : Git, GitHub, GitHub Actions, VS Code, Postman
+Development boards : Raspberry Pi, ESP32, Arduino
 ```
 
 ## 📚 Publications & Projects
